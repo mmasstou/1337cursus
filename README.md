@@ -25,6 +25,6 @@
 
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
 |:-:	|:--								|:--					|--:			|:-:						|:--			|
-|00		|[Libft](https://github.com/mohamed-m1/00-libft)|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/mmasstou/Libft)	|level 0%	|
+|00		|[Libft](https://github.com/mohamed-m1/libft)|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/mmasstou/Libft)	|level 0%	|
 |:dizzy:|									|						|**= 462 XP**	|							|				|
 
