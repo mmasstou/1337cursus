@@ -27,5 +27,7 @@
 |:-:	|:--								|:--					|--:			|:-:						|:--			|
 |00		|[Libft](https://github.com/mmasstou/libft)|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/mmasstou/Libft)	|level 1 - 5%	|
 |:dizzy:|									|						|**= 462 XP**	|							|				|
+|01		|[get_next_line](https://github.com/mmasstou/get_next_line)|C						|882 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/mmasstou/get_next_line)	|level 1 - 5%	|
+|:dizzy:|									|						|**= 882 XP**	|							|				|
 |01		|[ft_printf](https://github.com/mmasstou/ft_printf)|C						|882 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/mmasstou/ft_printf)	|level 1 - 5%	|
 |:dizzy:|									|						|**= 882 XP**	|							|				|
