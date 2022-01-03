@@ -31,3 +31,4 @@
 |:dizzy:|									|						|**= 882 XP**	|							|				|
 |01		|[ft_printf](https://github.com/mmasstou/ft_printf)|C						|882 XP			|![Project Score - ft_printf](https://badge42.herokuapp.com/api/project/mmasstou/ft_printf)	|level 2 - 2%	|
 |:dizzy:|									|						|**= 882 XP**	|							|				|
+|01		|[born2beroot](https://github.com/mmasstou/born2beroot)|C						|882 XP			|![Project Score - born2beroot](https://badge42.herokuapp.com/api/project/mmasstou/born2beroot)	|level 2 - 24%	|
